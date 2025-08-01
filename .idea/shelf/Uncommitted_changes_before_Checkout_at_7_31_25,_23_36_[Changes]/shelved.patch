@@ -1,0 +1,103 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"6b93b705-48f6-4636-9094-e154bac75723\" name=\"Changes\" comment=\"section 5\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"section-5\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 5\n}]]></component>\n  <component name=\"ProjectId\" id=\"30cqRYK8VXjOoNQi5JchVB3VXio\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.Main.executor\": \"Run\",\n    \"Application.exercise.executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"onboarding.tips.debug.path\": \"/Users/j/Desktop/study/java.vc/section5/src/Main.java\",\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\n    \"two.files.diff.last.used.file\": \"/Users/j/Desktop/study/java/section5/FirstMethodsChallenge/src/MethodChallenge.java\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration name=\"exercise\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"exercise\" />\n      <module name=\"section5\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.exercise\" />\n        <item itemvalue=\"Application.exercise\" />\n        <item itemvalue=\"Application.exercise\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"6b93b705-48f6-4636-9094-e154bac75723\" name=\"Changes\" comment=\"\" />\n      <created>1753937200914</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1753937200914</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"section 5\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1754015830247</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1754015830248</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"section 5\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1754015865129</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1754015865129</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"section 5\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"section 5\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/section5/src/Main.java</url>\n          <line>11</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1a3486c50e130547ddbaacbb7696451a5bb36f3a)
++++ b/.idea/workspace.xml	(date 1754022693667)
+@@ -4,47 +4,23 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6b93b705-48f6-4636-9094-e154bac75723" name="Changes" comment="section 5" />
++    <list default="true" id="ec862fe0-e1b9-4ba3-a0d8-f60b16997f6d" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+-  </component>
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="section-5" />
++        <entry key="$PROJECT_DIR$" value="main" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="ProblemsViewState">
+-    <option name="selectedTabId" value="CurrentFile" />
+-  </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 5
+-}]]></component>
+-  <component name="ProjectId" id="30cqRYK8VXjOoNQi5JchVB3VXio" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+-    "Application.Main.executor": "Run",
+-    "Application.exercise.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "onboarding.tips.debug.path": "/Users/j/Desktop/study/java.vc/section5/src/Main.java",
+-    "settings.editor.selected.configurable": "preferences.pluginManager",
+-    "two.files.diff.last.used.file": "/Users/j/Desktop/study/java/section5/FirstMethodsChallenge/src/MethodChallenge.java"
++    "git-widget-placeholder": "section-6"
+   }
+ }]]></component>
+   <component name="RunManager">
+@@ -58,41 +34,11 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="Application.exercise" />
+-        <item itemvalue="Application.exercise" />
+-        <item itemvalue="Application.exercise" />
+       </list>
+     </recent_temporary>
+   </component>
+   <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="6b93b705-48f6-4636-9094-e154bac75723" name="Changes" comment="" />
+-      <created>1753937200914</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1753937200914</updated>
+-    </task>
+-    <task id="LOCAL-00001" summary="section 5">
+-      <option name="closed" value="true" />
+-      <created>1754015830247</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1754015830248</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="section 5">
+-      <option name="closed" value="true" />
+-      <created>1754015865129</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1754015865129</updated>
+-    </task>
+-    <option name="localTasksCounter" value="3" />
+     <servers />
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="section 5" />
+-    <option name="LAST_COMMIT_MESSAGE" value="section 5" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
